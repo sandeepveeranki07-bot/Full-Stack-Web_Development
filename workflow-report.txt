@@ -1,0 +1,59 @@
+
+MODULE 1: WEB TECHNOLOGY FUNDAMENTALS
+
+Project Title: Introduction to Web Technologies
+
+1. OBJECTIVE
+
+The objective of this project is to understand web technologies, client-server architecture, and the difference between static and dynamic websites. A simple static homepage is created using HTML.
+
+2. INTRODUCTION TO WEB TECHNOLOGIES
+
+Web technologies are tools and languages used to create and operate websites and web applications. Examples include HTML, CSS, JavaScript, web servers, and databases.
+
+3. HOW A WEB REQUEST WORKS
+
+The web request process involves the following steps:
+
+1. The user enters a website URL in a browser.
+2. The browser sends an HTTP request to the web server.
+3. The server processes the request and may communicate with a database.
+4. The server sends an HTTP response to the browser.
+5. The browser displays the requested webpage to the user.
+
+Workflow:
+
+User → Browser → Web Server → Database
+User ← Browser ← Web Server ← Database
+
+Note: The database is optional and is not required for every request.
+
+4. CLIENT-SERVER ARCHITECTURE
+
+Client-server architecture is a model in which a client requests a service and a server provides the response.
+
+The client is usually a web browser. The server receives requests, processes them, and returns responses to the client.
+
+5. STATIC AND DYNAMIC WEBSITES
+
+Static Website:
+A static website displays predefined content. Its pages generally remain the same unless the developer changes the files.
+
+Example: A basic informational webpage.
+
+Dynamic Website:
+A dynamic website can display changing content based on user input, application logic, or database information.
+
+Example: An online shopping website.
+
+6. IMPLEMENTATION
+
+A simple static homepage was created using HTML. It contains a heading, introduction, and information about web technology. The webpage can be opened in a web browser.
+
+7. RESULT
+
+The basic webpage was created successfully. The project helped demonstrate web technology fundamentals, client-server architecture, and the difference between static and dynamic websites.
+
+8. CONCLUSION
+
+This project provides a basic understanding of how websites work and how HTML is used to create a webpage. These concepts form the foundation for learning CSS, JavaScript, and full stack web development.
