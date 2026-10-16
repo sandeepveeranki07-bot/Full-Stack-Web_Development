@@ -47,4 +47,5 @@ build/
 # Operating system files
 .DS_Store
 Thumbs.db
+s.env.DB_PASSWORD
 
